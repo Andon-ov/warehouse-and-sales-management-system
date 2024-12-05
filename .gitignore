@@ -40,3 +40,54 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Node Modules
+node_modules/
+
+# Angular Build Output
+dist/
+out-tsc/
+tmp/
+
+# IDE and Editor Settings
+.idea/
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+.vscode/
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Compiled Typescript
+*.tsbuildinfo
+
+# Environment Files
+.env
+.env.*.local
+
+# Angular CLI specific files
+.angular/
+
+# Temporary files
+*.bak
+*.tmp
+*.swp
+*.swp.*
+
+# Test coverage
+coverage/
+
+# Dependency directories
+bower_components/
