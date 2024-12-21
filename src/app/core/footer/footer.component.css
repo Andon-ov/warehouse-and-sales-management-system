@@ -1,0 +1,16 @@
+.footer {
+    background-color: var(--aliceBlueColor);
+    color: #333;
+    font-size: 14px;
+    text-align: center;
+  }
+  
+
+  
+  .copyright {
+    padding: 20px;
+    font-size: 12px;
+    color: #999;
+  }
+  
+  
